@@ -1,12 +1,12 @@
-#CS 445
+# CS 445
 ## CS 445 Computational Photography - Final project
 
-###Purpose
+### Purpose
 The project captures user's image from the webcam using face detection.
 It automatically converts the captured image into a cartoonized image.
 As the image is converted it will be saved at each step during the conversion process.
 #
-###Execution Steps
+### Execution Steps
 You can run this by downloading the repository and running the `imageToCartoonConverter.py` file by using the command
 
 `python imageToCartoonConverter.py
@@ -25,7 +25,7 @@ programs or by executing `python imageCartoonizer.py` and `python imageCartooniz
 They will take existing `capturedRawImage.jpg` image as input from the same source code folder.
 
 #
-###Results
+### Results
 The image captured using face detection is stored as `capturedRawImage.jpg`
 
 The program uses 2 different approaches to cartoonize the image. Approach 1 final image is 
