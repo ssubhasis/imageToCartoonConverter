@@ -39,7 +39,7 @@ During the workflow at each step intermediate results are saved in the same fold
 to the step being executed.
 
 <br>
-Few sample converted images are stored under `/examples` folder.
+Few sample converted images are stored under 'examples' folder.
 
 <br>
 GIT Hub Link
