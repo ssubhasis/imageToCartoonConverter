@@ -40,7 +40,7 @@ to the step being executed.
 
 <br>
 Few sample converted images are stored under 'examples' folder.
-
 <br>
+
 GIT Hub Link
 https://github.com/ssubhasis/imageToCartoonConverter
