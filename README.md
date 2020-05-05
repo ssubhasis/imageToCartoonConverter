@@ -39,8 +39,8 @@ During the workflow at each step intermediate results are saved in the same fold
 to the step being executed.
 
 <br>
-Few sample converted images are stored under 'examples' folder.
-<br>
+Few sample converted images are stored under 'examples' folder. <br>
 
+<br>
 GIT Hub Link
 https://github.com/ssubhasis/imageToCartoonConverter
